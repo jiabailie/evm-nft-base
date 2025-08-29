@@ -1,0 +1,41 @@
+{
+    "name": "Quiet Pikachu Club #7",
+    "symbol": "QPC",
+    "description": "A fat Pikachu is singing.",
+    "seller_fee_basis_points": 500,
+    "image": "https://coral-occupational-dragonfly-495.mypinata.cloud/ipfs/bafybeid5xahidbvrttlnv7g6ea6y733suu3ak5ksijh5arntn2n2j42w5m",
+    "external_url": "",
+    "collection": {
+        "name": "Quiet Pikachu Club",
+        "family": "Quiet Pikachu"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Room"
+        },
+        {
+            "trait_type": "Action",
+            "value": "Standing"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "type": "image/png",
+                "uri": "https://coral-occupational-dragonfly-495.mypinata.cloud/ipfs/bafybeid5xahidbvrttlnv7g6ea6y733suu3ak5ksijh5arntn2n2j42w5m"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "0x35E1803F283a1b5BaBc638BD2110De615d15b0e3",
+                "share": 100
+            }
+        ]
+    }
+}

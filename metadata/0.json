@@ -1,0 +1,41 @@
+{
+    "name": "Quiet Pikachu Club #0",
+    "symbol": "QPC",
+    "description": "A happy Pikachu is playing with ducks.",
+    "seller_fee_basis_points": 500,
+    "image": "https://coral-occupational-dragonfly-495.mypinata.cloud/ipfs/bafybeicydog3lcj4cfhjx2rgpa5mi2oy2y6khp2zu4e5mqo3bfqfh2wpg4",
+    "external_url": "",
+    "collection": {
+        "name": "Quiet Pikachu Club",
+        "family": "Quiet Pikachu"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pool"
+        },
+        {
+            "trait_type": "Action",
+            "value": "Standing"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "type": "image/png",
+                "uri": "https://coral-occupational-dragonfly-495.mypinata.cloud/ipfs/bafybeicydog3lcj4cfhjx2rgpa5mi2oy2y6khp2zu4e5mqo3bfqfh2wpg4"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "0x35E1803F283a1b5BaBc638BD2110De615d15b0e3",
+                "share": 100
+            }
+        ]
+    }
+}

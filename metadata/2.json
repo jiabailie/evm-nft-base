@@ -1,0 +1,41 @@
+{
+    "name": "Quiet Pikachu Club #2",
+    "symbol": "QPC",
+    "description": "A happy Pikachu is watching a butterfly.",
+    "seller_fee_basis_points": 500,
+    "image": "https://coral-occupational-dragonfly-495.mypinata.cloud/ipfs/bafybeihs6mtvenyzkras23cbrezhz7jvzowz2cjn3l4yfui77rvrkiy2aq",
+    "external_url": "",
+    "collection": {
+        "name": "Quiet Pikachu Club",
+        "family": "Quiet Pikachu"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sky"
+        },
+        {
+            "trait_type": "Action",
+            "value": "Standing"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "type": "image/png",
+                "uri": "https://coral-occupational-dragonfly-495.mypinata.cloud/ipfs/bafybeihs6mtvenyzkras23cbrezhz7jvzowz2cjn3l4yfui77rvrkiy2aq"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "0x35E1803F283a1b5BaBc638BD2110De615d15b0e3",
+                "share": 100
+            }
+        ]
+    }
+}

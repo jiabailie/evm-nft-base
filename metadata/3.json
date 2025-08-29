@@ -1,0 +1,41 @@
+{
+    "name": "Quiet Pikachu Club #3",
+    "symbol": "QPC",
+    "description": "A happy Pikachu is fishing in one boat.",
+    "seller_fee_basis_points": 500,
+    "image": "https://coral-occupational-dragonfly-495.mypinata.cloud/ipfs/bafybeid3tyomd3xl2mjmfforkqfrw22nje65x7tydbccp75qec526k6rni",
+    "external_url": "",
+    "collection": {
+        "name": "Quiet Pikachu Club",
+        "family": "Quiet Pikachu"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pool"
+        },
+        {
+            "trait_type": "Action",
+            "value": "Sitting"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "type": "image/png",
+                "uri": "https://coral-occupational-dragonfly-495.mypinata.cloud/ipfs/bafybeid3tyomd3xl2mjmfforkqfrw22nje65x7tydbccp75qec526k6rni"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "0x35E1803F283a1b5BaBc638BD2110De615d15b0e3",
+                "share": 100
+            }
+        ]
+    }
+}

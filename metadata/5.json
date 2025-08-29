@@ -1,0 +1,41 @@
+{
+    "name": "Quiet Pikachu Club #5",
+    "symbol": "QPC",
+    "description": "A happy Pikachu is dancing.",
+    "seller_fee_basis_points": 500,
+    "image": "https://coral-occupational-dragonfly-495.mypinata.cloud/ipfs/bafybeiguzm5lmgghcolnxnicdcksqjmaj2czqmlbnlitkewgzn3iodfrn4",
+    "external_url": "",
+    "collection": {
+        "name": "Quiet Pikachu Club",
+        "family": "Quiet Pikachu"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Universe"
+        },
+        {
+            "trait_type": "Action",
+            "value": "Standing"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "type": "image/png",
+                "uri": "https://coral-occupational-dragonfly-495.mypinata.cloud/ipfs/bafybeiguzm5lmgghcolnxnicdcksqjmaj2czqmlbnlitkewgzn3iodfrn4"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "0x35E1803F283a1b5BaBc638BD2110De615d15b0e3",
+                "share": 100
+            }
+        ]
+    }
+}
